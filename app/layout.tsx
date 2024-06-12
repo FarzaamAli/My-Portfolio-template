@@ -4,7 +4,7 @@ import Icons from './Icons'
 import './globals.css'
 
 export const metadata = {
-  title: 'Farzaam Resume',
+  title: 'Farzaam Portfolio',
   description: 'My Resume',
 }
 
